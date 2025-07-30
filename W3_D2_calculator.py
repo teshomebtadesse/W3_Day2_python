@@ -9,6 +9,8 @@
 numb1 = float(input("Enter first number: "))
 numb2 = float(input("Enter second number: "))
 
+print("Now, let's see the results:")
+      
 print("The sum is: ", numb1 + numb2)
 print("The difference is: ", numb1 - numb2)
 print("The product is: ", numb1 * numb2)
